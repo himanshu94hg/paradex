@@ -1,0 +1,42 @@
+1.Please describe the current development stage of the project. *
+  We are making a DEX that provides the BEST PRICE SWAP on Binance Smart Chain that supports a split-routing swap, which will divide source tokens into multiple routes and swap them on different pools across all aggregated DEXs simultaneously. 
+  This strategy not only reduces price impact but also maximizes desired tokens. We've done 75% of development work and expected to launch DEX in July month as mentioned in our Roadmap.
+
+2.What is the long-term vision of the Project and how do you expect to get there? *
+  We are completely focused on developing tech and also on marketing in the next 2 quarters. Have prepared complete Roadmap of ParaDex project up to December month with a timeline, one by one our expert team achieving that milestones in specified given time. We have a team of Top Blockchain experts with innovative blockchain 
+  solutions and ideas, having experience of more than 4 years in Ethereum, Hyperledger, and other blockchains.
+
+3.How much would your project like to raise (USD value)? *
+  we are looking to raise 20,00,000 USD ( 20 millions $PRAD = 0.1 BUSD for IFO).
+
+4.What is the expected valuation of your project? *
+  We are expecting at least 100 million valuations in the year-end with our complete DEX.
+
+5.What will you use the raised funds for? *
+  The ParaDex project is 100% transparent and community-governed, 90% of raised funds would be locked in Pancakeswap forever. Pancakeswap would be a Major trading DEX for $PRAD token.
+  The remaining 10% would be used for Centralized Exchange listing, further development purposes, marketing, and partnerships, etc.
+
+6.When would you like to host the IFO?
+  We are looking for IFO on 28/06/2021.
+
+7.Have your smart contract been audited yet?
+  No
+
+8.what is token economics? Do you have a token distribution schedule?
+  $PRAD has a total token supply of 100,000,000.
+  20% (20,000,000 PRAD) will be reserved for IFO.
+  30% (30,000,000 PRAD) will be reserved for Liquidity yield-farming (PRAD, PRAD-BNB LP) purposes.
+  20% (20,000,000 PRAD) will be reserved for the Ecosystem.
+  15% (15,000,000 PRAD) will be reserved for the Team.
+  14% (14,000,000 PRAD) will be reserved for Strategic reserve.
+  1% (1,000,000 PRAD) will be reserved for the Airdrop/promotions.
+  Initially, only the 20% IFO allocation will be circulated in the market, followed by the Liquidity yield-farming allocation, expected to be released over a year.
+  The Team Fund will NOT be initially circulating and will be used to support the protocol and community via stabilization asset collateralization, market-making assets, 
+  protocol grants, bounties, partnerships, and other community incentives. 
+
+  Token Vesting Periods
+  Team - 6 months lock then vested over 15 months.
+  Staking and Yield-Farming - TBD
+  Ecosystem - 20% unlock TGE then vested over 12 months.
+  Strategic reserved - 10% unlock TGE then vested over 12 months. 
+  Airdrop/promotion - 20% unlock TGE then vested over 12 months.
